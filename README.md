@@ -4,10 +4,12 @@ This repository's issues list manages requests to add and change entries in the 
 
 Your [Expert](https://tools.ietf.org/html/rfc8126#section-4.6) is currently [@mnot](https://github.com/mnot).
 
+> NOTE: it's advisable -- but not required -- to circulate your proposal on the [HTTP Working Group Mailing List](mailto:ietf-http-wg@w3.org) mailing list first. If your request is not circulated there, it may be as part of the evaluation process.
+
 To request registration of a Proxy-Status parameter or error type (or a change to an existing one), you can:
 
 * [File an issue](https://github.com/protocol-registries/proxy-status/issues/new/choose) (preferred), or
-* Send e-mail to [the HTTP Working Group mailing list](mailto:ietf-http-wg@w3.org).
+* Send e-mail to [the HTTP Working Group mailing list](mailto:ietf-http-wg@w3.org) (someone will create an issue for you).
 
 See [RFC 9209](https://www.rfc-editor.org/rfc/rfc9209.html) for more information; in particular:
 
