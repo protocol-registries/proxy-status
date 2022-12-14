@@ -24,8 +24,8 @@ body:
           description: A description of the conditions that generate the proxy error type.
         validations:
           required: true
-      - type: input
-        id: extra
+      - type: textarea
+        id: extra_params
         attributes:
           label: Extra Parameters
           description: Zero or more optional parameters, along with their allowable Structured Type(s)
